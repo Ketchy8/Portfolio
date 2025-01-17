@@ -1,4 +1,4 @@
 # Portfolio
 
 
-*This project currently contains my professional statement.
+*This project contains my Portfolio, CV, and Cover letter.
